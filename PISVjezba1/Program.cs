@@ -8,6 +8,9 @@ namespace PISVjezba1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo0");
+            Console.WriteLine("Nina");
+            
         }
     }
 }
+/**/
