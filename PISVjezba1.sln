@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PISVjezba1", "PISVjezba1\PISVjezba1.csproj", "{778391A4-9428-4A7F-86C7-BACC8BA143CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778391A4-9428-4A7F-86C7-BACC8BA143CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778391A4-9428-4A7F-86C7-BACC8BA143CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778391A4-9428-4A7F-86C7-BACC8BA143CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778391A4-9428-4A7F-86C7-BACC8BA143CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8C0563-ECA6-4A63-B6B3-55C261654445}
+	EndGlobalSection
+EndGlobal
